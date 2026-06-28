@@ -32,3 +32,7 @@ RU: Всем хорошего использования, рад за вас!
 EN: Good use to everyone, I'm happy for you!
 
 CH: 有一个很好的使用，我为你高兴！
+
+<img width="974" height="785" alt="image" src="https://github.com/user-attachments/assets/ec0cd9a5-4ed1-4021-9392-e569cac32ef0" />
+<img width="1332" height="752" alt="image" src="https://github.com/user-attachments/assets/87d54f3d-daca-4c21-b2b1-d969a77d69aa" />
+
